@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Esta la creación de un repositorio del módulo 2
+Esta la creación del ptimer repositorio del módulo 2
