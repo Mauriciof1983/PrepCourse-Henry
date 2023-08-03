@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Esta la creación del ptimer repositorio del módulo 2
+
+Esta es una prueba de como crear un repositorio y clonarlo desde Git Hub a mi computadora
+
