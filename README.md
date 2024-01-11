@@ -1,2 +1,4 @@
-# PrepCourse-Henry
-Repositorio de Prueba
+
+Mauricio Farias
+
+Prueba de como crear un repositorio, clonarlo y guardarlo en Git Hub
